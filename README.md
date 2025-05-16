@@ -1,7 +1,7 @@
-# 🎄 Data Science Bootcamp batch11  
+# 🌳 Data Science Bootcamp batch11  
   My Data Science & Analytics Projects and Key Learnings from **`:Datarockie 🦉`**
   This bootcamp runs about 4 months.
-## 🥇 Core course: What I Learned 
+## 🏅 Core course: What I Learned 
 
 1. Data Science Foundation
 2. Building A Second Brain
@@ -18,7 +18,7 @@
 13. Intro to Python
 14. Essential Python For Data Analyst
 
-## 🥪 Optional course:  What I Learned
+## 💡 Bonus classes:  What I Learned
 - Lesrn how to use Ai x Gemini
 - Deep Dive Gemini
 - Power BI 101
@@ -28,7 +28,7 @@
 - Julia Programming 101
 - GitHub 101
 
-## 🍔 My personal projects
+## 📂 My personal projects
 
 1. SQL supermarket analytics
 2. SQL churn analytics
