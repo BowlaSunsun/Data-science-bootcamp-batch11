@@ -3,37 +3,30 @@
   This bootcamp runs about 4 months.
 ## 🥇 Core course: What I Learned 
 
-1. Intro to Data Science
+1. Data Science Foundation
 2. Building A Second Brain
 3. Google sheets
 4. SQL Database
-5. R Programming Foundation
-6. Data Transformation
-7. Data Visualization
-8. Essential Statistics
+5. Create Website with WordPress
+6. R Programming Foundation
+7. Data Transformation
+8. Data Visualization
+9. Essential Statistics
 10. Looker studio Dashboard
 11. Essential ML for Data Analyst
 12. Essential Economics for Data Analyst
-13. Intro to Marketing & Business for Data Analyst
-14. Python Foundation
-15. Essential Python For Data Analyst
+13. Intro to Python
+14. Essential Python For Data Analyst
 
 ## 🥪 Optional course:  What I Learned
-- Prompt Engineering
-- Data Analytics Sharing Session
-- Pomodoro 101 / BUJO 
-- Intro to Power Query(Excel)
-- Google Analytics
-- Intro to API with JavaScript
-- Intro to Data Modeling in Microsoft Excel
-- Intro to Data Modeling in Power BI
-- UX UI 101
-- The Laws of Ux
-- Intro to Web Development
-- Power BI Crash Course
+- Lesrn how to use Ai x Gemini
+- Deep Dive Gemini
+- Power BI 101
+- Google Analytics 101
 - Data Engineering 101
-- Intro to ML Engineering 101
-
+- Intro to API with JavaScript
+- Julia Programming 101
+- GitHub 101
 
 ## 🍔 My personal projects
 
